@@ -1,0 +1,4 @@
+pandas==1.1.3
+geopy==2.1.0
+haversine==2.3.0
+folium==0.12.1

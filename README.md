@@ -9,7 +9,7 @@ Download main.py and filtered_data.csv to open this file. Also, check requiremen
 
 ## Usage
 
-Open main.py and enter year and coordiantes.
+Open main.py and enter the year and coordinates.
 
 ## Example
 
@@ -21,6 +21,9 @@ Check Map_1.html
 ```
 
 ![alt text](example.png)
+
+You can see your's location and locations of nearby places where different movies were recorded.
+Click on marker to see the name of the movie.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
